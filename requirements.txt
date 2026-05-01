@@ -1,0 +1,14 @@
+streamlit
+torch
+torchvision
+transformers
+sentence-transformers
+joblib
+numpy
+pandas
+requests
+Pillow
+opencv-python-headless
+scikit-learn
+gnews
+pytesseract
